@@ -65,6 +65,9 @@ export default function HomePage() {
             <Link href="/contact" className="hover:text-green-300 transition-colors">
               Contact
             </Link>
+            <Link href="/blog" className="hover:text-green-300 transition-colors">
+              Blog
+            </Link>
           </div>
         </div>
       </nav>
