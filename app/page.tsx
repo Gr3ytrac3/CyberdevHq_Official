@@ -9,7 +9,7 @@ import MatrixRain from "@/components/matrix-rain"
 export default function HomePage() {
   const [text, setText] = useState("")
   const [showCursor, setShowCursor] = useState(true)
-  const fullText = "Ethical Hacker | Penetration Tester | Red Team Operator"
+  const fullText = "Offensive Kernel Security Engineering | Red Teaming | Cybersecurity R&D"
 
   useEffect(() => {
     let i = 0
