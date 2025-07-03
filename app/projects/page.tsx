@@ -58,6 +58,30 @@ export default function ProjectsPage() {
       demo: "#",
       icon: Lock,
     },
+    {
+      id: 4,
+      title: "Cryptographic Attack Suite",
+      category: "crypto",
+      description: "Collection of tools for cryptographic analysis and attacks.",
+      technologies: ["C++", "Python", "OpenSSL", "SageMath"],
+      impact: "Cracked 50+ encryption challenges",
+      status: "Completed",
+      github: "#",
+      demo: "#",
+      icon: Lock,
+    },
+    {
+      id: 4,
+      title: "Cryptographic Attack Suite",
+      category: "crypto",
+      description: "Collection of tools for cryptographic analysis and attacks.",
+      technologies: ["C++", "Python", "OpenSSL", "SageMath"],
+      impact: "Cracked 50+ encryption challenges",
+      status: "Completed",
+      github: "#",
+      demo: "#",
+      icon: Lock,
+    },
   ]
 
   const filteredProjects = filter === "all" ? projects : projects.filter((p) => p.category === filter)
