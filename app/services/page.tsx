@@ -1,6 +1,7 @@
 import Link from "next/link"
 import { ChevronRight, Shield, Code, Search, FileText, Zap, Users } from "lucide-react"
 import { Button } from "@/components/ui/button"
+import MatrixRain from "@/components/matrix-rain"
 
 export default function ServicesPage() {
   const services = [
@@ -85,7 +86,8 @@ export default function ServicesPage() {
   ]
 
   return (
-    <div className="min-h-screen bg-black text-green-400 font-mono">
+    <div className="min-h-screen bg-black text-green-400 font-mono relative">
+            <MatrixRain />
       {/* Navigation */}
       <nav className="border-b border-green-400/30 p-4">
         <div className="max-w-7xl mx-auto flex items-center justify-between">
