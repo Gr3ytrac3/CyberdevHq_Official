@@ -22,9 +22,9 @@ Everything here — the tools, the labs, the blog posts — is a reflection of s
 
 ## 🔍 What You'll Find Here
 
-- ✍️ A technical **blog** with real lab walkthroughs, insights, and personal research
-- 📂 My **projects** — including Python tools, kernel modules, red team scripts, and OSINT kits
-- 📸 **Lab snapshots**, build notes, and experiment reports
-- 📖 In-depth **documentation** of things I’m learning, breaking, fixing, and building
+- A technical **blog** with real lab walkthroughs, insights, and personal research
+- My **projects** — including Python tools, kernel modules, red team scripts, and OSINT kits
+- **Lab snapshots**, build notes, and experiment reports
+- In-depth **documentation** of things I’m learning, breaking, fixing, and building
 
 ---
